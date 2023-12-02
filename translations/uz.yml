@@ -1,0 +1,14 @@
+uz:
+  start-command-message: "Salom %{name}!\n\nBu bot yordamida siz o'zingizning fayllaringizni do'stlaringiz bilan ulashishingiz mumkin.\n\nIstalgan /format'dagi fayllaringizni yuboring, men sizga link jo'nataman va u link orqali do'stingiz sizni faylingizni ko'rishi mumkin."
+  format-command-message: |
+    Ushbu bot orqali siz baham ko'rishingiz mumkin:
+
+    -Rasmlar(jpg,png,...)🏞
+    -Videolar(mp4,mov,avi)🎞
+    -Audiolar(mp3,aac,flac,...)🎙
+    -Animatsiyalar(gif)🏃
+    -Hujjatlar(mkv,doc,apk,...)📄
+    -Ovozli xabarlar🎤
+    -Video xabarlar👀
+    -Stikerlar(animatsiyali yoki oddiy)💟
+  admin-command-message: "Xush kelibsiz"
